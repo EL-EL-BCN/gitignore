@@ -1,5 +1,0 @@
-Some contents in the new file
-
-this file is now tracked and any edits will prompt git to ask us to commit
-
-This file is now untracked after using method 1 to return it to gitignore
